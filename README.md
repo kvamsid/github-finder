@@ -1,6 +1,6 @@
 # GitHub Finder 🔍
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-▶-brightgreen?style=for-the-badge)](YOUR_LIVE_DEMO_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://github-finder-app-one-livid.vercel.app/)
 
 A React application for searching GitHub users and displaying their profile information using GitHub's public API.
 
