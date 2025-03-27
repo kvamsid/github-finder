@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://github-finder-app-one-livid.vercel.app/)
 
-A React application for searching GitHub users and displaying their profile information using GitHub's public API.
+GitHub Finder is a responsive React application that leverages GitHub's REST API to search and display user profiles. Utilizing React's Context API and reducers for efficient state management, the application fetches real-time data including user bio, repository statistics, and top repositories. The clean UI built with TailwindCSS and DaisyUI showcases API integration patterns while providing instant search results and detailed profile views.
 
 ![Project Preview](./screenshot.png) <!-- Replace with actual screenshot path -->
 
